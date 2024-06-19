@@ -1,1 +1,2 @@
-export const title = "Hello all!!!"
+export const title = "Helo all!!!"
+

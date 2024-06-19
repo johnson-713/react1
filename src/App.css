@@ -1,0 +1,21 @@
+.box {
+    background-color: yellow;
+    padding: 20px;
+}
+
+.box-in {
+     background-color: blue;
+     border: 1px solid black;
+}
+
+.cards {
+    padding: 40px 80px;
+    display: flex;
+    gap: 20px;
+}
+
+.input-container {
+    display: flex;
+    gap: 30px;
+    margin-top: 40px;
+}
